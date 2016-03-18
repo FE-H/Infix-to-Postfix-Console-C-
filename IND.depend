@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1458266401 source:c:\users\hethann\desktop\codeblock_source\ind\main.cpp
+	<iostream>
+	"STCK_IMP.h"
+
+1458268525 c:\users\hethann\desktop\codeblock_source\ind\stck_imp.h
+	<iostream>
+	<string>
+	<stack>
+	<cctype>
+
+1458268537 source:c:\users\hethann\desktop\codeblock_source\ind\stck_imp.cpp
+	"STCK_IMP.h"
+
